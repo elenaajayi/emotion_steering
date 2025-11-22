@@ -1,5 +1,5 @@
 
-# Emotion Steering: Model Self-Representation vs User Attribution
+# Emotion Steering: Model Self-Representation vs User Attribution (SPAR MIDTERM REPORT)
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-orange.svg)](https://pytorch.org)
