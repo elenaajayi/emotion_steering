@@ -151,7 +151,7 @@ The `plots/` directory contains comprehensive visualizations:
 
 ## Installation & Dependencies
 ```bash
-pip install torch transformers datasets scikit-learn matplotlib seaborn pandas numpy
+uv install torch transformers datasets scikit-learn matplotlib seaborn pandas numpy
 ```
 
 See `requirements.txt` for specific versions.
