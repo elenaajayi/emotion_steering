@@ -29,7 +29,7 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
+uv install -r requirements.txt
 
 # Extract activations from DistilBERT
 python scripts/extract_activations.py
