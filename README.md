@@ -162,7 +162,6 @@ If you use this work in your research, please cite:
 @article{ajayi2025emotion,
   title={Distinguishing Model Self-Representation from User Attribution in Emotion Steering},
   author={Ajayi, Elena},
-  journal={Supervised Program for Alignment Research},
   year={2025}
 }
 ```
