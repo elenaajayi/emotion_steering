@@ -56,3 +56,6 @@ data/labels.npy
 data/steering_vector_layer10.npy
 *.npy
 legacy_bert/data/
+# Large data files - keep local only
+*.npy
+legacy_bert/data/*.npy
