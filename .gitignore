@@ -54,3 +54,5 @@ logs/
 data/activations.npy
 data/labels.npy
 data/steering_vector_layer10.npy
+*.npy
+legacy_bert/data/
